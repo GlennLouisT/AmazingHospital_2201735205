@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cvHospital">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_hospital"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_hospitalName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="province name"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:id="@+id/tv_hospitalEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="province name"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:layout_below="@+id/tv_hospitalName"
+            />
+
+        <TextView
+            android:id="@+id/tv_hospitalPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="province name"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:layout_below="@+id/tv_hospitalEmail"
+
+            />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

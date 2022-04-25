@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/activity_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/activity_hospital.xml" value="0.22" />
         <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/activity_setting.xml" value="0.14945652173913043" />
-        <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/list_hospital.xml" value="0.14" />
+        <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/list_hospital.xml" value="0.25" />
+        <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/layout/list_province.xml" value="0.14945652173913043" />
         <entry key="..\:/glenn/Sem 8/UTS/MOB/UTS/app/src/main/res/menu/top_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
